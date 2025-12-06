@@ -1,2 +1,28 @@
-# Relatorio_de_vendas_PowerBI
-Criando Um Relatório Gerencial de Vendas com Power BI - Projeto prático do Bootcamp da DIO
+# Criando Um Relatório Gerencial de Vendas com Power BI - Projeto prático do Bootcamp da DIO
+
+## Entendendo o Desafio:
+Com base nos dados utilizados no projeto anterior, você irá criar um relatório mais elaborado com base na sample financials do Power BI. Os arquivos de dados estão disponíveis no github: 
+
+https://github.com/julianazanelatto/power_bi_analyst 
+
+Fiquem atentos a: 
+
+Estrutura definida 
+
+Botões de navegação que fornecem navegabilidade 
+
+Segmentadores utilizados e botões com imagem associado 
+
+Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
+
+ 
+
+Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
+
+Objetos que definem o layout do relatório 
+
+Gráficos (visuais) e os campos que os compõem 
+
+Botões para navegabilidade 
+
+Segmentadores de dados 
